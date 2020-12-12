@@ -8,8 +8,8 @@ public class Admin {
 
     WebDriver driver;
 
-    By Add = By.name("btnNoTemp");
-        
+    By Add = By.name("masterStash");
+
     public Admin(WebDriver driver){
 
         this.driver = driver;
