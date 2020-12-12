@@ -8,7 +8,7 @@ public class Admin {
 
     WebDriver driver;
 
-    By Add = By.name("btnAdd");
+    By Add = By.name("btnAddMaster");
         
     public Admin(WebDriver driver){
 
